@@ -1,5 +1,10 @@
 package com.saar.spark
 
+import scala.collection.mutable.ArrayBuffer
+
+/**
+ * @author ${user.name}
+ */
 object App1 {
   def main(args : Array[String]) {
 
